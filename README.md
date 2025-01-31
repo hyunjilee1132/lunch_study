@@ -29,7 +29,7 @@
 - [백준_11047_동전0](https://www.acmicpc.net/problem/11047)
   
 **수요일**
-- 은 시험 😱
+- 시험 😱
 
 **목요일**
 - [백준_17219_비밀번호찾기](https://www.acmicpc.net/problem/17219)
@@ -38,6 +38,54 @@
 **금요일**
 - [백준_1463_1로만들기](https://www.acmicpc.net/problem/1463)
 - [백준_2579_계단오르기](https://www.acmicpc.net/problem/2579)
+
+
+<details>
+<summary>문제목록</summary>
+- [백준_2606_바이러스](https://www.acmicpc.net/problem/2606)<br>
+- [백준_9095_123더하기](https://www.acmicpc.net/problem/9095)<br>
+- [백준_9375_패션왕신해빈](https://www.acmicpc.net/problem/9375)<br>
+- [백준_9461_파도반수열](https://www.acmicpc.net/problem/9461)<br>
+- [백준_11659_구간합구하기4](https://www.acmicpc.net/problem/11659)<br>
+- [백준_11726_2xn타일링](https://www.acmicpc.net/problem/11726)<br>
+- [백준_11727_2xn타일링2](https://www.acmicpc.net/problem/11727)<br>
+- [백준_17626_FourSquares](https://www.acmicpc.net/problem/17626)<br>
+- [백준_1012_유기농배추](https://www.acmicpc.net/problem/1012)<br>
+- [백준_1260_DFS와BFS](https://www.acmicpc.net/problem/1260)<br>
+- [백준_1541_잃어버린괄호](https://www.acmicpc.net/problem/1541)<br>
+- [백준_1927_최소힙](https://www.acmicpc.net/problem/1927)<br>
+- [백준_2630_색종이만들기](https://www.acmicpc.net/problem/2630)<br>
+- [백준_2805_나무자르기](https://www.acmicpc.net/problem/2805)<br>
+- [백준_11279_최대힙](https://www.acmicpc.net/problem/11279)<br>
+- [백준_11724_연결요소의개수](https://www.acmicpc.net/problem/11724)<br>
+- [백준_18111_마인크래프트](https://www.acmicpc.net/problem/18111)<br>
+- [백준_18870_좌표압축](https://www.acmicpc.net/problem/18870)<br>
+- [백준_21736_헌내기친구](https://www.acmicpc.net/problem/21736)<br>
+- [백준_30804_과일탕후루](https://www.acmicpc.net/problem/30804)<br>
+- [백준_1389_케빈베이컨](https://www.acmicpc.net/problem/1389)<br>
+- [백준_1697_숨바꼭질](https://www.acmicpc.net/problem/1697)<br>
+- [백준_2178_미로탐색](https://www.acmicpc.net/problem/2178)<br>
+- [백준_2667_단지번호붙이기](https://www.acmicpc.net/problem/2667)<br>
+- [백준_5525_IOIOI](https://www.acmicpc.net/problem/5525)<br>
+- [백준_6064_카잉달력](https://www.acmicpc.net/problem/6064)<br>
+- [백준_11286_절댓값힙](https://www.acmicpc.net/problem/11286)<br>
+- [백준_11403_경로찾기](https://www.acmicpc.net/problem/11403)<br>
+- [백준_14940_쉬운최단거리](https://www.acmicpc.net/problem/14940)<br>
+- [백준_1074_Z](https://www.acmicpc.net/problem/1074)<br>
+- [백준_1931_회의실배정](https://www.acmicpc.net/problem/1931)<br>
+- [백준_5430_AC](https://www.acmicpc.net/problem/5430)<br>
+- [백준_7569_토마토3D](https://www.acmicpc.net/problem/7569)<br>
+- [백준_7576_토마토2D](https://www.acmicpc.net/problem/7576)<br>
+- [백준_10026_적록색약](https://www.acmicpc.net/problem/10026)<br>
+- [백준_16928_뱀과사다리게임](https://www.acmicpc.net/problem/16928)<br>
+- [백준_7662_이중우선순위큐](https://www.acmicpc.net/problem/7662)<br>
+- [백준_9019_DSLR](https://www.acmicpc.net/problem/9019)<br>
+- [백준_14500_테트로미노](https://www.acmicpc.net/problem/14500)<br>
+
+</details>
+
+
+
 
 <br>
 <br>
