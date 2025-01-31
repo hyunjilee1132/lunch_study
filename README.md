@@ -19,9 +19,30 @@
 3. 파일 이름: 요일*출처*문제번호*제목.java <br>
    ex) fri_boj_11723*집합.java
 
+### 💡 이번주 문제
+**월요일**
+- [백준_11723_집합](https://www.acmicpc.net/problem/11723)
+- [백준_1620_포켓몬마스터](https://www.acmicpc.net/problem/1620)
+  
+**화요일**
+- [백준_1764_듣보잡](https://www.acmicpc.net/problem/1764)
+- [백준_11047_동전0](https://www.acmicpc.net/problem/11047)
+  
+**수요일**
+- 은 시험 😱
+
+**목요일**
+- [백준_17219_비밀번호찾기](https://www.acmicpc.net/problem/17219)
+- [백준_1003_피보나치함수](https://www.acmicpc.net/problem/1003)
+  
+**금요일**
+- [백준_1463_1로만들기](https://www.acmicpc.net/problem/1463)
+- [백준_2579_계단오르기](https://www.acmicpc.net/problem/2579)
+
+<br>
 <br>
 
-> 참고 (출처) <br><br>
+> 참고 (출처) <br>
 > 백준 - boj <br>
 > SWEA - swea <br>
 > 정올 - jo
