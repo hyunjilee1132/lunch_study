@@ -21,33 +21,40 @@
 
 ### 💡 이번주 문제
 **월요일**
-- [백준_11723_집합](https://www.acmicpc.net/problem/11723)
-- [백준_1620_포켓몬마스터](https://www.acmicpc.net/problem/1620)
+- 🛠관통PJT
   
 **화요일**
-- [백준_1764_듣보잡](https://www.acmicpc.net/problem/1764)
-- [백준_11047_동전0](https://www.acmicpc.net/problem/11047)
-  
+- [백준_1463_1로만들기](https://www.acmicpc.net/problem/1463)<br>
+- [백준_2579_계단오르기](https://www.acmicpc.net/problem/2579)<br>
+
+
 **수요일**
-- 시험 😱
+- [백준_2606_바이러스](https://www.acmicpc.net/problem/2606)<br>
+- [백준_9095_123더하기](https://www.acmicpc.net/problem/9095)<br>
 
 **목요일**
-- [백준_17219_비밀번호찾기](https://www.acmicpc.net/problem/17219)
-- [백준_1003_피보나치함수](https://www.acmicpc.net/problem/1003)
-  
+- [백준_9375_패션왕신해빈](https://www.acmicpc.net/problem/9375)<br>
+- [백준_9461_파도반수열](https://www.acmicpc.net/problem/9461)<br>
+
 **금요일**
-- [백준_1463_1로만들기](https://www.acmicpc.net/problem/1463)
-- [백준_2579_계단오르기](https://www.acmicpc.net/problem/2579)
+- [백준_11659_구간합구하기4](https://www.acmicpc.net/problem/11659)<br>
+- [백준_11726_2xn타일링](https://www.acmicpc.net/problem/11726)<br>
 
 
 <details>
+<summary>풀은 문제</summary>
+========== week01 ==========<br>
+- [백준_11723_집합](https://www.acmicpc.net/problem/11723)<br>
+- [백준_1620_포켓몬마스터](https://www.acmicpc.net/problem/1620)<br>
+- [백준_1764_듣보잡](https://www.acmicpc.net/problem/1764)<br>
+- [백준_11047_동전0](https://www.acmicpc.net/problem/11047)<br>
+- [백준_17219_비밀번호찾기](https://www.acmicpc.net/problem/17219)<br>
+- [백준_1003_피보나치함수](https://www.acmicpc.net/problem/1003)<br>
+   
+</details>
+
+<details>
 <summary>문제목록</summary>
-- [백준_2606_바이러스](https://www.acmicpc.net/problem/2606)<br>
-- [백준_9095_123더하기](https://www.acmicpc.net/problem/9095)<br>
-- [백준_9375_패션왕신해빈](https://www.acmicpc.net/problem/9375)<br>
-- [백준_9461_파도반수열](https://www.acmicpc.net/problem/9461)<br>
-- [백준_11659_구간합구하기4](https://www.acmicpc.net/problem/11659)<br>
-- [백준_11726_2xn타일링](https://www.acmicpc.net/problem/11726)<br>
 - [백준_11727_2xn타일링2](https://www.acmicpc.net/problem/11727)<br>
 - [백준_17626_FourSquares](https://www.acmicpc.net/problem/17626)<br>
 - [백준_1012_유기농배추](https://www.acmicpc.net/problem/1012)<br>
