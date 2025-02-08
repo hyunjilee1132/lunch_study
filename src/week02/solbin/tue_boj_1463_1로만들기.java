@@ -1,8 +1,9 @@
+package week02.solbin;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class Main {
+public class tue_boj_1463_1로만들기 {
     public static void main(String[] args) throws NumberFormatException, IOException {
     	BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     	int n = Integer.parseInt(br.readLine());
