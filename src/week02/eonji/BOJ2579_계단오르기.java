@@ -2,7 +2,7 @@ package Study.algorithm_lunchStudy;
 
 import java.util.Scanner;
 
-public class BOJ2579 {
+public class BOJ2579_계단오르기 {
     /**
      * 계단 오르기
      * <a href="https://www.acmicpc.net/problem/2579">...</a>
