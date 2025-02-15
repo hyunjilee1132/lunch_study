@@ -21,24 +21,22 @@
 
 ### 💡 이번주 문제
 **월요일**
-- 🛠관통PJT
-  
-**화요일**
-- [백준_1463_1로만들기](https://www.acmicpc.net/problem/1463)<br>
-- [백준_2579_계단오르기](https://www.acmicpc.net/problem/2579)<br>
+- 시험😱
 
+**화요일**
+- 시험😱
 
 **수요일**
-- [백준_2606_바이러스](https://www.acmicpc.net/problem/2606)<br>
-- [백준_9095_123더하기](https://www.acmicpc.net/problem/9095)<br>
-
-**목요일**
-- [백준_9375_패션왕신해빈](https://www.acmicpc.net/problem/9375)<br>
-- [백준_9461_파도반수열](https://www.acmicpc.net/problem/9461)<br>
-
-**금요일**
 - [백준_11659_구간합구하기4](https://www.acmicpc.net/problem/11659)<br>
 - [백준_11726_2xn타일링](https://www.acmicpc.net/problem/11726)<br>
+
+**목요일**
+- [백준_11727_2xn타일링2](https://www.acmicpc.net/problem/11727)<br>
+- [백준_17626_FourSquares](https://www.acmicpc.net/problem/17626)<br>
+
+**금요일**
+- [백준_1012_유기농배추](https://www.acmicpc.net/problem/1012)<br>
+- [백준_1260_DFS와BFS](https://www.acmicpc.net/problem/1260)<br>
 
 
 <details>
@@ -51,14 +49,18 @@
 - [백준_17219_비밀번호찾기](https://www.acmicpc.net/problem/17219)<br>
 - [백준_1003_피보나치함수](https://www.acmicpc.net/problem/1003)<br>
    
+========== week02 ==========<br>
+- [백준_1463_1로만들기](https://www.acmicpc.net/problem/1463)<br>
+- [백준_2579_계단오르기](https://www.acmicpc.net/problem/2579)<br>
+- [백준_2606_바이러스](https://www.acmicpc.net/problem/2606)<br>
+- [백준_9095_123더하기](https://www.acmicpc.net/problem/9095)<br>
+- [백준_9375_패션왕신해빈](https://www.acmicpc.net/problem/9375)<br>
+- [백준_9461_파도반수열](https://www.acmicpc.net/problem/9461)<br>
+
 </details>
 
 <details>
 <summary>문제목록</summary>
-- [백준_11727_2xn타일링2](https://www.acmicpc.net/problem/11727)<br>
-- [백준_17626_FourSquares](https://www.acmicpc.net/problem/17626)<br>
-- [백준_1012_유기농배추](https://www.acmicpc.net/problem/1012)<br>
-- [백준_1260_DFS와BFS](https://www.acmicpc.net/problem/1260)<br>
 - [백준_1541_잃어버린괄호](https://www.acmicpc.net/problem/1541)<br>
 - [백준_1927_최소힙](https://www.acmicpc.net/problem/1927)<br>
 - [백준_2630_색종이만들기](https://www.acmicpc.net/problem/2630)<br>
