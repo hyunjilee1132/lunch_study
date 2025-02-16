@@ -1,10 +1,10 @@
-package week02.solbin;
+package week03.solbin;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
-public class fri_boj_11659_구간합구하기4 {
+public class wed_boj_11659_구간합구하기4 {
 	static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 	static StringBuilder sb = new StringBuilder();
 	public static void main(String[] args) throws NumberFormatException, IOException {
