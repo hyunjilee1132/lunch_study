@@ -1,10 +1,10 @@
-package week02.solbin;
+package week03.solbin;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
-public class fri_boj_11726_2n타일링 {
+public class wed_boj_11726_2xn타일링 {
 	static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 	static StringBuilder sb = new StringBuilder();
 	static long[] fibo = new long[1001];
