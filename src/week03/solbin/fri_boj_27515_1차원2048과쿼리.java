@@ -5,7 +5,7 @@ import java.io.InputStreamReader;
 import java.util.Arrays;
 
 
-class fri_boj_27515_1Â÷¿ø2048°úÄõ¸® {
+class fri_boj_27515_1Ã‚Ã·Â¿Ã¸2048Â°ÃºÃ„ÃµÂ¸Â® {
     static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     static StringBuilder sb = new StringBuilder();
     
@@ -15,7 +15,8 @@ class fri_boj_27515_1Â÷¿ø2048°úÄõ¸® {
     	for (int i=0;i<n;i++) {
     		String input = br.readLine();
     		long num = Long.parseLong(input.substring(1));
-    		
+
+            // ìž…ë ¥ì„ ë°›ìœ¼ë©´ í•´ë‹¹ ì°¨ìˆ˜ ì¹´ìš´íŠ¸ë¥¼ í•˜ê³  ì¶œë ¥ì„ í•œë‹¤
     		if (input.charAt(0)=='+') {
     			int r = rt(num);
     			if (r!=-1) {
