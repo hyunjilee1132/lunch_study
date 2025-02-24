@@ -21,22 +21,19 @@
 
 ### 💡 이번주 문제
 **월요일**
-- 시험😱
+- 일타싸피 🎱
 
 **화요일**
-- 시험😱
+- [백준_14719_빗물](https://www.acmicpc.net/problem/14719)<br>
 
 **수요일**
-- [백준_11659_구간합구하기4](https://www.acmicpc.net/problem/11659)<br>
-- [백준_11726_2xn타일링](https://www.acmicpc.net/problem/11726)<br>
+- [백준_29160_FIFA](https://www.acmicpc.net/problem/29160)<br>
 
 **목요일**
-- [백준_11727_2xn타일링2](https://www.acmicpc.net/problem/11727)<br>
-- [백준_17626_FourSquares](https://www.acmicpc.net/problem/17626)<br>
+- [백준_2943_토끼](https://www.acmicpc.net/problem/2943)<br>
 
 **금요일**
-- [백준_1012_유기농배추](https://www.acmicpc.net/problem/1012)<br>
-- [백준_1260_DFS와BFS](https://www.acmicpc.net/problem/1260)<br>
+- 관통 PJT
 
 
 <details>
@@ -48,6 +45,12 @@
 - [백준_11047_동전0](https://www.acmicpc.net/problem/11047)<br>
 - [백준_17219_비밀번호찾기](https://www.acmicpc.net/problem/17219)<br>
 - [백준_1003_피보나치함수](https://www.acmicpc.net/problem/1003)<br>
+- [백준_11659_구간합구하기4](https://www.acmicpc.net/problem/11659)<br>
+- [백준_11726_2xn타일링](https://www.acmicpc.net/problem/11726)<br>
+- [백준_11727_2xn타일링2](https://www.acmicpc.net/problem/11727)<br>
+- [백준_17626_FourSquares](https://www.acmicpc.net/problem/17626)<br>
+- [백준_1012_유기농배추](https://www.acmicpc.net/problem/1012)<br>
+- [백준_1260_DFS와BFS](https://www.acmicpc.net/problem/1260)<br>
    
 ========== week02 ==========<br>
 - [백준_1463_1로만들기](https://www.acmicpc.net/problem/1463)<br>
@@ -56,6 +59,9 @@
 - [백준_9095_123더하기](https://www.acmicpc.net/problem/9095)<br>
 - [백준_9375_패션왕신해빈](https://www.acmicpc.net/problem/9375)<br>
 - [백준_9461_파도반수열](https://www.acmicpc.net/problem/9461)<br>
+- [백준_14719_빗물](https://www.acmicpc.net/problem/14719)<br>
+- [백준_29160_FIFA](https://www.acmicpc.net/problem/29160)<br>
+- [백준_2943_토끼](https://www.acmicpc.net/problem/2943)<br>
 
 </details>
 
