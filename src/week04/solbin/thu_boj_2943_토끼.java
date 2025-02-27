@@ -15,7 +15,6 @@ class Main {
 		int n = Integer.parseInt(st.nextToken());
 		int m = Integer.parseInt(st.nextToken());
 		int k = (int) Math.sqrt(n);
-		int remain = n-k*k;
 		int[] rabbit = new int[n+1];
 		int[] cup = new int[k+2];
 		for (int i=0;i<m;i++) {
