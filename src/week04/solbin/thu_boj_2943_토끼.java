@@ -29,9 +29,9 @@ class Main {
 					sum+=++cup[j/k];
 					j+=k-1;
 				} else if(j%k==0&&j+n%k==a+s-1&&j+n%k==n) {
-                    sum+=++cup[j/k];
-                    break;
-                } else {
+                                    sum+=++cup[j/k];
+                                    break;
+                                } else {
 					sum+=++rabbit[j];
 				}
 			}
