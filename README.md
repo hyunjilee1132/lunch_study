@@ -42,6 +42,7 @@
 
 <details>
 <summary>풀은 문제</summary>
+
 ========== week01 ==========<br>
 - [백준_11723_집합](https://www.acmicpc.net/problem/11723)<br>
 - [백준_1620_포켓몬마스터](https://www.acmicpc.net/problem/1620)<br>
@@ -49,11 +50,7 @@
 - [백준_11047_동전0](https://www.acmicpc.net/problem/11047)<br>
 - [백준_17219_비밀번호찾기](https://www.acmicpc.net/problem/17219)<br>
 - [백준_1003_피보나치함수](https://www.acmicpc.net/problem/1003)<br>
-- [백준_14719_빗물](https://www.acmicpc.net/problem/14719)<br>
-- [백준_29160_FIFA](https://www.acmicpc.net/problem/29160)<br>
-- [백준_2943_토끼](https://www.acmicpc.net/problem/2943)<br>
 
-   
 ========== week02 ==========<br>
 - [백준_1463_1로만들기](https://www.acmicpc.net/problem/1463)<br>
 - [백준_2579_계단오르기](https://www.acmicpc.net/problem/2579)<br>
