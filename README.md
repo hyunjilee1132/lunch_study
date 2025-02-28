@@ -21,19 +21,19 @@
 
 ### 💡 이번주 문제
 **월요일**
-- 일타싸피 🎱 <br>
+- 대체공휴일
 
 **화요일**
-- [백준_14719_빗물](https://www.acmicpc.net/problem/14719)<br>
+- 과목평가 & 월말평가 & 역량평가 🤮
 
 **수요일**
-- [백준_29160_FIFA](https://www.acmicpc.net/problem/29160)<br>
+- [백준_25918_북극곰은괄호를찢어](https://www.acmicpc.net/problem/25918)<br>
 
 **목요일**
-- [백준_2943_토끼](https://www.acmicpc.net/problem/2943)<br>
+- [백준_21608_상어초등학교](https://www.acmicpc.net/problem/21608)<br>
 
 **금요일**
-- 관통 PJT <br>
+- [백준_28353_고양이카페](https://www.acmicpc.net/problem/28353)<br>
 
 
 <br>
@@ -49,12 +49,10 @@
 - [백준_11047_동전0](https://www.acmicpc.net/problem/11047)<br>
 - [백준_17219_비밀번호찾기](https://www.acmicpc.net/problem/17219)<br>
 - [백준_1003_피보나치함수](https://www.acmicpc.net/problem/1003)<br>
-- [백준_11659_구간합구하기4](https://www.acmicpc.net/problem/11659)<br>
-- [백준_11726_2xn타일링](https://www.acmicpc.net/problem/11726)<br>
-- [백준_11727_2xn타일링2](https://www.acmicpc.net/problem/11727)<br>
-- [백준_17626_FourSquares](https://www.acmicpc.net/problem/17626)<br>
-- [백준_1012_유기농배추](https://www.acmicpc.net/problem/1012)<br>
-- [백준_1260_DFS와BFS](https://www.acmicpc.net/problem/1260)<br>
+- [백준_14719_빗물](https://www.acmicpc.net/problem/14719)<br>
+- [백준_29160_FIFA](https://www.acmicpc.net/problem/29160)<br>
+- [백준_2943_토끼](https://www.acmicpc.net/problem/2943)<br>
+
    
 ========== week02 ==========<br>
 - [백준_1463_1로만들기](https://www.acmicpc.net/problem/1463)<br>
@@ -63,9 +61,23 @@
 - [백준_9095_123더하기](https://www.acmicpc.net/problem/9095)<br>
 - [백준_9375_패션왕신해빈](https://www.acmicpc.net/problem/9375)<br>
 - [백준_9461_파도반수열](https://www.acmicpc.net/problem/9461)<br>
+
+========== week03 ==========<br>
+- [백준_11659_구간합구하기4](https://www.acmicpc.net/problem/11659)<br>
+- [백준_11726_2xn타일링](https://www.acmicpc.net/problem/11726)<br>
+- [백준_11727_2xn타일링2](https://www.acmicpc.net/problem/11727)<br>
+- [백준_17626_FourSquares](https://www.acmicpc.net/problem/17626)<br>
+- [백준_1012_유기농배추](https://www.acmicpc.net/problem/1012)<br>
+- [백준_1260_DFS와BFS](https://www.acmicpc.net/problem/1260)<br>
+- [백준_27514_1차원2048](https://www.acmicpc.net/problem/27514)<br>
+- [백준_27514_1차원2048과쿼리](https://www.acmicpc.net/problem/27515)<br>
+
+========== week04 ==========<br>
 - [백준_14719_빗물](https://www.acmicpc.net/problem/14719)<br>
 - [백준_29160_FIFA](https://www.acmicpc.net/problem/29160)<br>
 - [백준_2943_토끼](https://www.acmicpc.net/problem/2943)<br>
+
+
 
 </details>
 
