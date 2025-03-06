@@ -29,7 +29,6 @@ public class fri_boj_28353_고양이_카페 {
 		int cnt = 0; // 만족하는 사람의 수
 		// 좌우 포인테가 곂칠 때까지 돌면서
 		while (left <= right) {
-			tmp++;
 			if (left == right) break;
 			// 만약 좌우측 고양이의 무게 합이 버틸 수 있는 무게보다 크면
 			if (arr[left] + arr[right] > K) {
