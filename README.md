@@ -21,19 +21,19 @@
 
 ### 💡 이번주 문제
 **월요일**
-- 대체공휴일
+- 😎
 
 **화요일**
-- 과목평가 & 월말평가 & 역량평가 🤮
+- [백준_28066_타노스는 요세푸스가 밉다](https://www.acmicpc.net/problem/28066)<br>
 
 **수요일**
-- [백준_25918_북극곰은괄호를찢어](https://www.acmicpc.net/problem/25918)<br>
+- [백준_2841_외계인의 기타 연주](https://www.acmicpc.net/problem/2841)<br>
 
 **목요일**
-- [백준_21608_상어초등학교](https://www.acmicpc.net/problem/21608)<br>
+- [백준_16236_아기 상어](https://www.acmicpc.net/problem/16236)<br>
 
 **금요일**
-- [백준_28353_고양이카페](https://www.acmicpc.net/problem/28353)<br>
+- 관통 PJT
 
 
 <br>
@@ -73,6 +73,11 @@
 - [백준_14719_빗물](https://www.acmicpc.net/problem/14719)<br>
 - [백준_29160_FIFA](https://www.acmicpc.net/problem/29160)<br>
 - [백준_2943_토끼](https://www.acmicpc.net/problem/2943)<br>
+
+========== week05 ==========<br>
+- [백준_25918_북극곰은괄호를찢어](https://www.acmicpc.net/problem/25918)<br>
+- [백준_21608_상어초등학교](https://www.acmicpc.net/problem/21608)<br>
+- [백준_28353_고양이카페](https://www.acmicpc.net/problem/28353)<br>
 
 
 
