@@ -24,13 +24,13 @@
 - 😎
 
 **화요일**
-- [백준_28066_타노스는 요세푸스가 밉다](https://www.acmicpc.net/problem/28066)<br>
+- [백준_12907_동물원](https://www.acmicpc.net/problem/12907) <br>
 
 **수요일**
-- [백준_2841_외계인의 기타 연주](https://www.acmicpc.net/problem/2841)<br>
+- [백준_1669_멍멍이 쓰다듬기](https://www.acmicpc.net/problem/1669) <br>
 
 **목요일**
-- [백준_16236_아기 상어](https://www.acmicpc.net/problem/16236)<br>
+- [백준_1686_복날](https://www.acmicpc.net/problem/1686)<br>
 
 **금요일**
 - 관통 PJT
@@ -79,6 +79,10 @@
 - [백준_21608_상어초등학교](https://www.acmicpc.net/problem/21608)<br>
 - [백준_28353_고양이카페](https://www.acmicpc.net/problem/28353)<br>
 
+========== week06 ==========<br>
+- [백준_28066_타노스는 요세푸스가 밉다](https://www.acmicpc.net/problem/28066)<br>
+- [백준_2841_외계인의 기타 연주](https://www.acmicpc.net/problem/2841)<br>
+- [백준_16236_아기 상어](https://www.acmicpc.net/problem/16236)<br>
 
 
 </details>
