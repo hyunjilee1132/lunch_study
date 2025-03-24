@@ -20,70 +20,85 @@
    ex) fri_boj_11723*집합.java
 
 ### 💡 이번주 문제
+
 **월요일**
+
 - 😎
 
 **화요일**
-- [백준_12907_동물원](https://www.acmicpc.net/problem/12907) <br>
+
+- [백준*1756*피자 굽기](https://www.acmicpc.net/problem/1756) <br>
 
 **수요일**
-- [백준_1669_멍멍이 쓰다듬기](https://www.acmicpc.net/problem/1669) <br>
+
+- [백준*1188*음식 평론가](https://www.acmicpc.net/problem/1188) <br>
 
 **목요일**
-- [백준_1686_복날](https://www.acmicpc.net/problem/1686)<br>
+
+- [백준*18291*비요뜨의 징검다리 건너ㅣ](https://www.acmicpc.net/problem/18291)<br>
 
 **금요일**
-- 관통 PJT
 
+- 😎
 
 <br>
 <br>
-
 
 <details>
 <summary>풀은 문제</summary>
 
 ========== week01 ==========<br>
-- [백준_11723_집합](https://www.acmicpc.net/problem/11723)<br>
-- [백준_1620_포켓몬마스터](https://www.acmicpc.net/problem/1620)<br>
-- [백준_1764_듣보잡](https://www.acmicpc.net/problem/1764)<br>
-- [백준_11047_동전0](https://www.acmicpc.net/problem/11047)<br>
-- [백준_17219_비밀번호찾기](https://www.acmicpc.net/problem/17219)<br>
-- [백준_1003_피보나치함수](https://www.acmicpc.net/problem/1003)<br>
+
+- [백준*11723*집합](https://www.acmicpc.net/problem/11723)<br>
+- [백준*1620*포켓몬마스터](https://www.acmicpc.net/problem/1620)<br>
+- [백준*1764*듣보잡](https://www.acmicpc.net/problem/1764)<br>
+- [백준*11047*동전0](https://www.acmicpc.net/problem/11047)<br>
+- [백준*17219*비밀번호찾기](https://www.acmicpc.net/problem/17219)<br>
+- [백준*1003*피보나치함수](https://www.acmicpc.net/problem/1003)<br>
 
 ========== week02 ==========<br>
-- [백준_1463_1로만들기](https://www.acmicpc.net/problem/1463)<br>
-- [백준_2579_계단오르기](https://www.acmicpc.net/problem/2579)<br>
-- [백준_2606_바이러스](https://www.acmicpc.net/problem/2606)<br>
-- [백준_9095_123더하기](https://www.acmicpc.net/problem/9095)<br>
-- [백준_9375_패션왕신해빈](https://www.acmicpc.net/problem/9375)<br>
-- [백준_9461_파도반수열](https://www.acmicpc.net/problem/9461)<br>
+
+- [백준\_1463_1로만들기](https://www.acmicpc.net/problem/1463)<br>
+- [백준*2579*계단오르기](https://www.acmicpc.net/problem/2579)<br>
+- [백준*2606*바이러스](https://www.acmicpc.net/problem/2606)<br>
+- [백준\_9095_123더하기](https://www.acmicpc.net/problem/9095)<br>
+- [백준*9375*패션왕신해빈](https://www.acmicpc.net/problem/9375)<br>
+- [백준*9461*파도반수열](https://www.acmicpc.net/problem/9461)<br>
 
 ========== week03 ==========<br>
-- [백준_11659_구간합구하기4](https://www.acmicpc.net/problem/11659)<br>
-- [백준_11726_2xn타일링](https://www.acmicpc.net/problem/11726)<br>
-- [백준_11727_2xn타일링2](https://www.acmicpc.net/problem/11727)<br>
-- [백준_17626_FourSquares](https://www.acmicpc.net/problem/17626)<br>
-- [백준_1012_유기농배추](https://www.acmicpc.net/problem/1012)<br>
-- [백준_1260_DFS와BFS](https://www.acmicpc.net/problem/1260)<br>
-- [백준_27514_1차원2048](https://www.acmicpc.net/problem/27514)<br>
-- [백준_27514_1차원2048과쿼리](https://www.acmicpc.net/problem/27515)<br>
+
+- [백준*11659*구간합구하기4](https://www.acmicpc.net/problem/11659)<br>
+- [백준\_11726_2xn타일링](https://www.acmicpc.net/problem/11726)<br>
+- [백준\_11727_2xn타일링2](https://www.acmicpc.net/problem/11727)<br>
+- [백준\_17626_FourSquares](https://www.acmicpc.net/problem/17626)<br>
+- [백준*1012*유기농배추](https://www.acmicpc.net/problem/1012)<br>
+- [백준\_1260_DFS와BFS](https://www.acmicpc.net/problem/1260)<br>
+- [백준\_27514_1차원2048](https://www.acmicpc.net/problem/27514)<br>
+- [백준\_27514_1차원2048과쿼리](https://www.acmicpc.net/problem/27515)<br>
 
 ========== week04 ==========<br>
-- [백준_14719_빗물](https://www.acmicpc.net/problem/14719)<br>
-- [백준_29160_FIFA](https://www.acmicpc.net/problem/29160)<br>
-- [백준_2943_토끼](https://www.acmicpc.net/problem/2943)<br>
+
+- [백준*14719*빗물](https://www.acmicpc.net/problem/14719)<br>
+- [백준\_29160_FIFA](https://www.acmicpc.net/problem/29160)<br>
+- [백준*2943*토끼](https://www.acmicpc.net/problem/2943)<br>
 
 ========== week05 ==========<br>
-- [백준_25918_북극곰은괄호를찢어](https://www.acmicpc.net/problem/25918)<br>
-- [백준_21608_상어초등학교](https://www.acmicpc.net/problem/21608)<br>
-- [백준_28353_고양이카페](https://www.acmicpc.net/problem/28353)<br>
+
+- [백준*25918*북극곰은괄호를찢어](https://www.acmicpc.net/problem/25918)<br>
+- [백준*21608*상어초등학교](https://www.acmicpc.net/problem/21608)<br>
+- [백준*28353*고양이카페](https://www.acmicpc.net/problem/28353)<br>
 
 ========== week06 ==========<br>
-- [백준_28066_타노스는 요세푸스가 밉다](https://www.acmicpc.net/problem/28066)<br>
-- [백준_2841_외계인의 기타 연주](https://www.acmicpc.net/problem/2841)<br>
-- [백준_16236_아기 상어](https://www.acmicpc.net/problem/16236)<br>
 
+- [백준*28066*타노스는 요세푸스가 밉다](https://www.acmicpc.net/problem/28066)<br>
+- [백준*2841*외계인의 기타 연주](https://www.acmicpc.net/problem/2841)<br>
+- [백준*16236*아기 상어](https://www.acmicpc.net/problem/16236)<br>
+
+========== week07 ==========<br>
+
+- [백준*12907*동물원](https://www.acmicpc.net/problem/12907) <br>
+- [백준*1669*멍멍이 쓰다듬기](https://www.acmicpc.net/problem/1669) <br>
+- [백준*1686*복날](https://www.acmicpc.net/problem/1686)<br>
 
 </details>
 
@@ -120,9 +135,6 @@
 - [백준_14500_테트로미노](https://www.acmicpc.net/problem/14500)<br>
 
 </details>
-
-
-
 
 <br>
 <br>
