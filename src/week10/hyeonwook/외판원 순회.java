@@ -1,6 +1,6 @@
 import java.util.*;
 import java.io.*;
-public class BOJ2098_2 {
+public class BOJ2098 {
 	static int N;
 	static int[][] W, graph;
 	public static void main(String[] args) throws IOException {
